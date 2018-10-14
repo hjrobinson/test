@@ -1,0 +1,13 @@
+{
+    "name": "parcels.mbtiles",
+    "description": "parcels.mbtiles",
+    "version": "2",
+    "minzoom": "0",
+    "maxzoom": "14",
+    "center": "-122.596436,47.361152,14",
+    "bounds": "-122.642299,47.287106,-122.557280,47.389023",
+    "type": "overlay",
+    "format": "pbf",
+    "generator": "tippecanoe v1.29.3",
+    "json": "{\"vector_layers\": [ { \"id\": \"parcels\", \"description\": \"\", \"minzoom\": 0, \"maxzoom\": 14, \"fields\": {} } ],\"tilestats\": {\"layerCount\": 1,\"layers\": [{\"layer\": \"parcels\",\"count\": 8402,\"geometry\": \"Polygon\",\"attributeCount\": 0,\"attributes\": []}]}}"
+}
